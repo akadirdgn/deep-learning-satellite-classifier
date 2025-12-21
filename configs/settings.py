@@ -14,7 +14,7 @@ NUM_CLASSES = 10
 
 # Egitim Ayarlari
 BATCH_SIZE = 64        # Bir kerede islenecek resim sayisi
-EPOCHS = 5           # Toplam egitim turu
+EPOCHS = 100           # Toplam egitim turu
 LEARNING_RATE = 0.001  # Ogrenme hizi (Adam optimizer default)
 
 # Veritabani
