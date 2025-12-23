@@ -65,4 +65,4 @@ streamlit run app.py
 - `app.py`: Streamlit web arayüzü.
 
 ## 👥 Katkıda Bulunanlar
-- **Kadir Doğan** - Geliştirici
+- **Abdulkadir Doğan** - Geliştirici
